@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>GeoGebra</title>
-    <url>/2022/09/26/GeoGebra/</url>
-    <content><![CDATA[<p><em><strong><a href="https://www.geogebra.org/graphing">图形计算器 - GeoGebra</a></strong></em></p>
-]]></content>
-  </entry>
-  <entry>
     <title>chengxu</title>
     <url>/2022/11/21/chengxu/</url>
     <content><![CDATA[<p><a href="https://wwp.lanzoub.com/iqOj60gmdofg">https://wwp.lanzoub.com/iqOj60gmdofg</a></p>
 <p><a href="https://wwoa.lanzoub.com/iprTG0kr7arc">https://wwoa.lanzoub.com/iprTG0kr7arc</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>GeoGebra</title>
+    <url>/2022/09/26/GeoGebra/</url>
+    <content><![CDATA[<p><em><strong><a href="https://www.geogebra.org/graphing">图形计算器 - GeoGebra</a></strong></em></p>
 ]]></content>
   </entry>
   <entry>
@@ -26,6 +26,15 @@
 ]]></content>
       <tags>
         <tag>题目</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>main</title>
+    <url>/2023/04/04/main/</url>
+    <content><![CDATA[<p><a href="https://wwoa.lanzoub.com/iiMf00s3uzah">https://wwoa.lanzoub.com/iiMf00s3uzah</a></p>
+]]></content>
+      <tags>
+        <tag>py</tag>
       </tags>
   </entry>
 </search>
